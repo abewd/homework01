@@ -1,6 +1,7 @@
 ~ Quality ReadMe File ~
 ~ By: Abdullah Al Fadhly ~
 ~ Contact details: abdullahalfadhly@gmail.com ~
+~ Contact details: +614 05 05 05 36 ~
 
 Github URL: 
 https://abewd.github.io/homework01/
@@ -26,3 +27,4 @@ Image locations:
 ./assets/images/search-social-media-marketing.jpg
 
 ./assets/images/search-screenshot-preview-webpage.jpg
+
